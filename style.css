@@ -1,0 +1,234 @@
+a:hover{
+	text-decoration: none;
+}
+
+#header{
+	color:#fff;
+	background-color:#e74c3c;
+}
+#logo{
+	font-size: 2rem;
+	margin-top: 5px;
+}
+#menu{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+
+}
+#menu li{
+	display: inline-block;
+
+}
+
+
+#menu li a{
+	color:#fff;
+	padding:15px 10px;
+	display: block;
+	text-decoration: none;
+}
+#menu li a:hover{
+	background-color: #c0392b;
+}
+.banner{
+	background: url('Hand touching 2 bulb.jpg') no-repeat 0 0;
+	background-size: cover;
+	height:400px;
+
+
+	}
+	.banner-title{
+		padding-top: 7rem;
+	}
+	.banner-title h1{
+		color:#000;
+		background: rgba(255,255,255,0.6);
+		display:inline-block;
+		text-transform: capitalize;
+		padding:10;
+		margin: 0;
+	}
+	.banner-title p.lead{
+		color:#fff;
+		background: rgba(231,76,60,0.7);
+		font-size: 18px;
+		text-transform: capitalize;
+	}
+	.section-head{
+		text-align: center;
+
+	}
+	.service-box{
+		text-align: center;
+	}
+	.section{
+		padding-top: 70px;
+		padding-bottom:70px;
+	}
+	.section-head{
+		color:#000;
+		text-align: center;
+		margin-bottom: 80px;
+		text-transform: capitalize;
+
+	}
+	.section-head:after{
+		background-color: #e74c3c;
+		content:"";
+		display: block;
+		width:100px;
+		height:4px;
+		margin: 20px auto;
+	}
+	.service-box i.fa{
+		color:#e74c3c;
+		font-size:70px;
+		padding-top: px;
+		margin-bottom: 17px;
+
+	}
+	.test{
+		color:#fff;
+		background: url('2012-human-dna-technology-desktop-background-full-hd-wallpapers.jpg')no-repeat 0 0;
+		background-size: cover;
+		padding: 50px 0;
+		position: relative;
+
+	}
+	.test:before{
+		background:rgba(52,73,94,0.3);
+		content:"";
+		position:absolute;
+		top:0;
+		width:100%;
+		height:100%;
+	}
+	.test img{
+		border-radius: 50%;
+		width:100px;
+		height:100px;
+
+	}
+	.news-post img{
+		margin-left:%;
+		height:150px;
+	}
+	.news-post img{
+		width:100%;
+		margin-bottom: 15px;
+	}
+	.news-post h5{
+		font-size: 1.35rem;
+
+	}
+	.news-post h5 a{
+		color:#e74c3c;
+		text-decoration: none;
+
+	}
+	.post-date{
+		 font-size:14px;
+		 margin-bottom: 4px;
+
+	}
+	.post-date:before{
+		    content: "\f073";
+		    font-family: fontAwesome;
+		    padding-right:7px;
+	}
+	a.readmore{
+		font-size: 14px;
+		color:#e74c3c;
+		text-decoration: none;
+	}
+	a.readmore:after{
+		content: "\f101";
+		 font-family: fontAwesome;
+		    padding-left:7px;
+
+	}
+	#footer-sidebar{
+		color:black;
+		background:rgba(52,73,94,0.1);
+
+
+	}
+	.container section{
+		color:#fff;
+		
+	}
+	.last{
+		color:#fff;
+		background:rgba(52,73,94);
+		text-align: center;
+	}
+	.web{
+        width:80%;
+        height:180px;
+        float:right;
+        margin-right:18%;
+        padding: 3px;
+        font-size:16px;
+        border-radius:10px;
+        tansform:transform(-60%,-60%);
+        box-shadow:0 15px 25px rgba(0,0,0,.8);
+        font-family: verdana;
+        margin-top:45px;
+        border: ;
+      }
+      .web h2{
+         margin:px;
+         text-align: center;
+         color:red;
+         font-size:20px;
+        text-decoration: underline;
+       }
+       .web .inputbox lebal{
+         margin-right:20px;
+         pointer-events:none;
+         font-size: 14px;
+       }
+       .web .inputbox input{
+         width:90%;
+         padding:1px ;
+         font-size:14px;
+         color:blue;
+         border:none;
+         outline:none;
+       background: transparent;
+       border-bottom:1px solid red;
+       }
+       .web input[type="submit"]
+       {
+      margin:px;
+         border:none;
+         color:red;
+         font-size:15px;
+         background: ;
+         padding:3px 10px;
+         cursor:pointer;
+         margin-right:73%;
+         border-radius: 10px;
+      }
+      .function {
+      	
+      }
+      .btn{
+  display:inline block;
+  background:none;
+  margin:15px;
+  border-radius:px;
+  color:lightblue;
+}
+.btn i{
+  line-height:px;
+  font-size: 25px;
+}
+.btn:hover i {
+  line-height:50px;
+  background-color:blue;
+  width:50px;
+  height:50px;
+  border-radius: 50px;
+  }
